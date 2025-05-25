@@ -1,12 +1,12 @@
 # 💻 Gabriel Marques
 
-### 🌟 **Desenvolvedor em formação | Ciência da Computação**
+### 🌟 **Desenvolvedor Full Stack em formação | Estudante de Ciência da Computação**
 👋 Olá! Meu nome é Gabriel, sou um entusiasta da tecnologia e apaixonado por aprender coisas novas no mundo da programação.  
 
 -------------------------------------------------------------------------------------------------------------------------------
 
 ### 🛠 **Tecnologias e Habilidades**
-- **Linguagens**: Python (básico), React Native (Básico), JavaScript (Básico), HTML (Básico), CSS (Básico).
+- **Linguagens**: Python (básico), React Native (Básico), JavaScript (Básico), HTML (Básico), CSS (Básico), SQL (Básico) [utilizando o PostgreSQL].
 - **Ferramentas**: PyCharm, Visual Studio Code (VSCODE).
 - **Soft Skills**: Organização, trabalho em equipe, resolução de problemas e boa comunicação.
 
