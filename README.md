@@ -30,7 +30,8 @@
 
 **`Desenvolvedor FullStack`**
 
-👋 Olá! Meu nome é Gabriel, sou um entusiasta da tecnologia e apaixonado por aprender coisas novas no mundo da programação.  
+👋 Olá! Meu nome é Gabriel, sou um entusiasta da tecnologia e apaixonado por aprender coisas novas no mundo da programação. Tenho um Canal no Youtube, onde gravo gameplays, pretendo mexer um pouco com lives, e pretendo fazer live relacionada a programação.
+Link: https://www.youtube.com/@misterioso1fps/videos
 
 <p align="left">
     <a href="https://www.youtube.com/@misterioso1fps/videos">
