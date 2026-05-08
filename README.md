@@ -65,7 +65,7 @@
 
 ---
 
-### 🤖 Redes Sociais
+### 📱 Redes Sociais
 
 <p align="left">
   <a href="https://github.com/misteriosooo1">
@@ -84,7 +84,7 @@
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🛠 Linguagens e Tecnologias
 
 ### Frontend
 
@@ -110,6 +110,16 @@
 
 ---
 
+### 🚀 Projetos Recentes
+- **Sistema de Coeficiente de Rendimento em Python**  
+  Um sistema feito em PYTHON, utilizando PyCharm como IDE, e PostgreSQL, como Banco de Dados.
+
+- **Aplicativo Mobile de Sistema de Gerenciamento de Clientes e Marcação de Horário de uma Barbearia**  
+  Um app feito, utilizando React Native, JavaScript, ExpoGo, poder ser usado tanto para IOS como para ANDROID
+
+
+---
+ 
 ### 📊 Estatísticas
 
 <p>
@@ -129,6 +139,13 @@
   />
   
 </p>
+
+---
+
+### 📬 **Contato**
+- **Email**: gb.mf.2167@gmail.com
+- **LinkedIn**: https://www.linkedin.com/in/gabriel-marques-67424226b/
+- **Portfólio**: https://github.com/misteriosooo1 / https://github.com/gabrielmarques-dev
 
 <!---
 misteriosooo1/misteriosooo1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
