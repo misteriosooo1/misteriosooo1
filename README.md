@@ -1,34 +1,6 @@
-# 💻 Gabriel Marques
-
-### 🌟 **Desenvolvedor Full Stack em formação | Estudante de Ciência da Computação**
-👋 Olá! Meu nome é Gabriel, sou um entusiasta da tecnologia e apaixonado por aprender coisas novas no mundo da programação.  
-
--------------------------------------------------------------------------------------------------------------------------------
-
-### 🛠 **Tecnologias e Habilidades**
-- **Linguagens**: Python (básico), React Native (Básico), JavaScript (Básico), HTML (Básico), CSS (Básico), SQL (Básico) [utilizando o PostgreSQL].
-- **Ferramentas**: PyCharm, Visual Studio Code (VSCODE).
-- **Soft Skills**: Organização, trabalho em equipe, resolução de problemas e boa comunicação.
-
--------------------------------------------------------------------------------------------------------------------------------
-
-### 🚀 **Projetos Recentes**
-- **Sistema de Coeficiente de Rendimento em Python**  
-  Um sistema feito em PYTHON, utilizando PyCharm como IDE, e PostgreSQL, como Banco de Dados.
-
-- **Aplicativo Mobile de Sistema de Gerenciamento de Clientes e Marcação de Horário de uma Barbearia**  
-  Um app feito, utilizando React Native, JavaScript, ExpoGo, poder ser usado tanto para IOS como para ANDROID.
-
--------------------------------------------------------------------------------------------------------------------------------
-
-### 📬 **Contato**
-- **Email**: gb.mf.2167@gmail.com
-- **LinkedIn**: https://www.linkedin.com/in/gabriel-marques-67424226b/
-- **Portfólio**: https://github.com/misteriosooo1 / https://github.com/gabrielmarques-dev
-
 # 👨🏻‍💻 Gabriel Marques
 
-**`Desenvolvedor FullStack`**
+**`Desenvolvedor Full Stack em formação | Estudante de Ciência da Computação`**
 
 👋 Olá! Meu nome é Gabriel, sou um entusiasta da tecnologia e apaixonado por aprender coisas novas no mundo da programação. Tenho um Canal no Youtube, onde gravo gameplays, pretendo mexer um pouco com lives, e pretendo fazer live relacionada a programação.
 Link: https://www.youtube.com/@misterioso1fps/videos
@@ -111,13 +83,17 @@ Link: https://www.youtube.com/@misterioso1fps/videos
 
 ---
 
+### 🥷🏻 Soft Skills
+Organização, trabalho em equipe, resolução de problemas e boa comunicação.
+
+---
+
 ### 🚀 Projetos Recentes
 - **Sistema de Coeficiente de Rendimento em Python**  
   Um sistema feito em PYTHON, utilizando PyCharm como IDE, e PostgreSQL, como Banco de Dados.
 
-- **Aplicativo Mobile de Sistema de Gerenciamento de Clientes e Marcação de Horário de uma Barbearia**  
+- **Aplicativo Mobile de Sistema de Gerenciamento de Clientes e Marcação de Horário de uma Barbearia**
   Um app feito, utilizando React Native, JavaScript, ExpoGo, poder ser usado tanto para IOS como para ANDROID
-
 
 ---
  
